@@ -1,0 +1,826 @@
+Sun Jul  6 16:58:21 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 16:58:21 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 16:58:21 2025 [INFO] GLFW window created successfully
+Sun Jul  6 16:58:21 2025 [INFO] Enabled validation layers
+Sun Jul  6 16:58:21 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 16:58:21 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 16:58:21 2025 [INFO] Window surface created successfully
+Sun Jul  6 16:58:21 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 16:58:21 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 16:58:21 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 16:58:21 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 16:58:21 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 16:58:21 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 16:58:21 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 16:58:21 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 16:58:21 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 16:58:22 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:01:23 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:01:23 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:01:23 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:01:24 2025 [INFO] Enabled validation layers
+Sun Jul  6 17:01:24 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 17:01:24 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 17:01:24 2025 [INFO] Window surface created successfully
+Sun Jul  6 17:01:24 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 17:01:24 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:01:24 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:01:24 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:01:24 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:01:24 2025 [INFO] Device supports all required extensions
+Sun Jul  6 17:01:24 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 17:01:24 2025 [INFO] Available formats: 5
+Sun Jul  6 17:01:24 2025 [INFO] Available present modes: 5
+Sun Jul  6 17:01:24 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:01:24 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:01:24 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:01:24 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:01:24 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 17:01:24 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:01:24 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 17:01:24 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 17:01:24 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 17:01:24 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 17:01:24 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 17:01:24 2025 [INFO] Swapchain created successfully
+Sun Jul  6 17:01:24 2025 [INFO] Entering main loop
+Sun Jul  6 17:01:35 2025 [INFO] Main loop ended
+Sun Jul  6 17:01:35 2025 [INFO] Starting cleanup
+Sun Jul  6 17:01:35 2025 [INFO] Swapchain destroyed
+Sun Jul  6 17:01:35 2025 [INFO] Device destroyed
+Sun Jul  6 17:01:35 2025 [INFO] Surface destroyed
+Sun Jul  6 17:01:35 2025 [INFO] Instance destroyed
+Sun Jul  6 17:01:35 2025 [INFO] Window destroyed
+Sun Jul  6 17:01:35 2025 [INFO] GLFW terminated
+Sun Jul  6 17:13:26 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:13:26 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:13:26 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:13:26 2025 [INFO] Loaded model with 0 vertices and 0 indices
+Sun Jul  6 17:13:26 2025 [INFO] Enabled validation layers
+Sun Jul  6 17:13:26 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 17:13:26 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 17:13:26 2025 [INFO] Window surface created successfully
+Sun Jul  6 17:13:26 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 17:13:26 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:13:26 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:13:26 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:13:26 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:13:26 2025 [INFO] Device supports all required extensions
+Sun Jul  6 17:13:26 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 17:13:26 2025 [INFO] Available formats: 5
+Sun Jul  6 17:13:26 2025 [INFO] Available present modes: 5
+Sun Jul  6 17:13:26 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:13:26 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:13:26 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:13:26 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:13:26 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 17:13:26 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:13:26 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 17:13:26 2025 [ERROR] Fatal error: Failed to allocate buffer memory!
+Sun Jul  6 17:16:07 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:16:07 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:16:07 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:16:07 2025 [ERROR] Fatal error: Failed to open model file: MotorLaps-Engine/Vulkan/src/SimpleCube.obj
+Sun Jul  6 17:17:41 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:17:41 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:17:41 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:17:41 2025 [ERROR] Fatal error: Failed to open model file: src/SimpleCube.obj
+Sun Jul  6 17:19:16 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:19:16 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:19:16 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:19:16 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 17:19:16 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 17:19:16 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 17:19:16 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 17:19:16 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 17:19:16 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 17:19:16 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 17:19:16 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:19:16 2025 [INFO] Enabled validation layers
+Sun Jul  6 17:19:16 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 17:19:16 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 17:19:16 2025 [INFO] Window surface created successfully
+Sun Jul  6 17:19:16 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 17:19:16 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:19:16 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:19:16 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:19:16 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:19:16 2025 [INFO] Device supports all required extensions
+Sun Jul  6 17:19:16 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 17:19:16 2025 [INFO] Available formats: 5
+Sun Jul  6 17:19:16 2025 [INFO] Available present modes: 5
+Sun Jul  6 17:19:16 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:19:16 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:19:16 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:19:16 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:19:16 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 17:19:17 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:19:17 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 17:19:17 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 17:19:17 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 17:19:17 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 17:19:17 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 17:19:17 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 17:19:17 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 17:19:17 2025 [INFO] Swapchain created successfully
+Sun Jul  6 17:19:17 2025 [INFO] Entering main loop
+Sun Jul  6 17:19:28 2025 [INFO] Main loop ended
+Sun Jul  6 17:19:28 2025 [INFO] Starting cleanup
+Sun Jul  6 17:19:28 2025 [INFO] Swapchain destroyed
+Sun Jul  6 17:19:28 2025 [INFO] Device destroyed
+Sun Jul  6 17:19:28 2025 [INFO] Surface destroyed
+Sun Jul  6 17:19:28 2025 [INFO] Instance destroyed
+Sun Jul  6 17:19:29 2025 [INFO] Window destroyed
+Sun Jul  6 17:19:29 2025 [INFO] GLFW terminated
+Sun Jul  6 17:23:09 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:23:09 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:23:09 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:23:09 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 17:23:09 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 17:23:09 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 17:23:09 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 17:23:09 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 17:23:09 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 17:23:09 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 17:23:09 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:23:09 2025 [INFO] Enabled validation layers
+Sun Jul  6 17:23:09 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 17:23:09 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 17:23:09 2025 [INFO] Window surface created successfully
+Sun Jul  6 17:23:09 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 17:23:09 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:23:09 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:23:09 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:23:09 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:23:09 2025 [INFO] Device supports all required extensions
+Sun Jul  6 17:23:09 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 17:23:09 2025 [INFO] Available formats: 5
+Sun Jul  6 17:23:09 2025 [INFO] Available present modes: 5
+Sun Jul  6 17:23:09 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:23:09 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:23:09 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:23:09 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:23:09 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 17:23:10 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:23:10 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 17:23:10 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 17:23:10 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 17:23:10 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 17:23:10 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 17:23:10 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 17:23:10 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 17:23:10 2025 [INFO] Swapchain created successfully
+Sun Jul  6 17:23:10 2025 [INFO] Entering main loop
+Sun Jul  6 17:23:11 2025 [INFO] Main loop ended
+Sun Jul  6 17:23:11 2025 [INFO] Starting cleanup
+Sun Jul  6 17:23:11 2025 [INFO] Swapchain destroyed
+Sun Jul  6 17:23:11 2025 [INFO] Device destroyed
+Sun Jul  6 17:23:11 2025 [INFO] Surface destroyed
+Sun Jul  6 17:23:11 2025 [INFO] Instance destroyed
+Sun Jul  6 17:23:11 2025 [INFO] Window destroyed
+Sun Jul  6 17:23:11 2025 [INFO] GLFW terminated
+Sun Jul  6 17:24:48 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:24:48 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:24:48 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:24:48 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 17:24:48 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 17:24:48 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 17:24:48 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 17:24:48 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 17:24:48 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 17:24:48 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 17:24:48 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:24:48 2025 [INFO] Enabled validation layers
+Sun Jul  6 17:24:48 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 17:24:48 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 17:24:48 2025 [INFO] Window surface created successfully
+Sun Jul  6 17:24:48 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 17:24:48 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:24:48 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:24:48 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:24:48 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:24:48 2025 [INFO] Device supports all required extensions
+Sun Jul  6 17:24:48 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 17:24:48 2025 [INFO] Available formats: 5
+Sun Jul  6 17:24:48 2025 [INFO] Available present modes: 5
+Sun Jul  6 17:24:48 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:24:48 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:24:48 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:24:48 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:24:48 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 17:24:48 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:24:48 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 17:24:48 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 17:24:48 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 17:24:48 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 17:24:48 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 17:24:48 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 17:24:48 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 17:24:48 2025 [INFO] Swapchain created successfully
+Sun Jul  6 17:24:48 2025 [INFO] Render pass created successfully
+Sun Jul  6 17:24:48 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 17:24:48 2025 [INFO] Entering main loop
+Sun Jul  6 17:25:01 2025 [INFO] Main loop ended
+Sun Jul  6 17:25:01 2025 [INFO] Starting cleanup
+Sun Jul  6 17:25:01 2025 [INFO] Swapchain destroyed
+Sun Jul  6 17:25:01 2025 [INFO] Device destroyed
+Sun Jul  6 17:25:01 2025 [INFO] Surface destroyed
+Sun Jul  6 17:25:01 2025 [INFO] Instance destroyed
+Sun Jul  6 17:25:01 2025 [INFO] Window destroyed
+Sun Jul  6 17:25:01 2025 [INFO] GLFW terminated
+Sun Jul  6 17:28:36 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:28:36 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:28:36 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:28:36 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 17:28:36 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 17:28:36 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 17:28:36 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 17:28:36 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 17:28:36 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 17:28:36 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 17:28:36 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 17:28:36 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:28:37 2025 [INFO] Enabled validation layers
+Sun Jul  6 17:28:37 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 17:28:37 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 17:28:37 2025 [INFO] Window surface created successfully
+Sun Jul  6 17:28:37 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 17:28:37 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:28:37 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:28:37 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:28:37 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:28:37 2025 [INFO] Device supports all required extensions
+Sun Jul  6 17:28:37 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 17:28:37 2025 [INFO] Available formats: 5
+Sun Jul  6 17:28:37 2025 [INFO] Available present modes: 5
+Sun Jul  6 17:28:37 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:28:37 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:28:37 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:28:37 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:28:37 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 17:28:37 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:28:37 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 17:28:37 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 17:28:37 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 17:28:37 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 17:28:37 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 17:28:37 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 17:28:37 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 17:28:37 2025 [INFO] Swapchain created successfully
+Sun Jul  6 17:28:37 2025 [INFO] Render pass created successfully
+Sun Jul  6 17:28:37 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 17:33:08 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 17:33:08 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 17:33:08 2025 [INFO] GLFW window created successfully
+Sun Jul  6 17:33:08 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 17:33:08 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 17:33:08 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 17:33:08 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 17:33:08 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 17:33:08 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 17:33:08 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 17:33:08 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 17:33:08 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 17:33:09 2025 [INFO] Enabled validation layers
+Sun Jul  6 17:33:09 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 17:33:09 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 17:33:09 2025 [INFO] Window surface created successfully
+Sun Jul  6 17:33:09 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 17:33:09 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:33:09 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:33:09 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:33:09 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:33:09 2025 [INFO] Device supports all required extensions
+Sun Jul  6 17:33:09 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 17:33:09 2025 [INFO] Available formats: 5
+Sun Jul  6 17:33:09 2025 [INFO] Available present modes: 5
+Sun Jul  6 17:33:09 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 17:33:09 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 17:33:09 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 17:33:09 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 17:33:09 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 17:33:09 2025 [INFO] Logical device created successfully
+Sun Jul  6 17:33:09 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 17:33:09 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 17:33:09 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 17:33:09 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 17:33:09 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 17:33:09 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 17:33:09 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 17:33:09 2025 [INFO] Swapchain created successfully
+Sun Jul  6 17:33:09 2025 [INFO] Render pass created successfully
+Sun Jul  6 17:33:09 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 18:00:02 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 18:00:02 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 18:00:02 2025 [INFO] GLFW window created successfully
+Sun Jul  6 18:00:02 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 18:00:02 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 18:00:02 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 18:00:02 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 18:00:02 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 18:00:02 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 18:00:02 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 18:00:02 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 18:00:02 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 18:00:02 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 18:00:02 2025 [INFO] Window surface created successfully
+Sun Jul  6 18:00:02 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 18:00:02 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 18:00:02 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 18:00:02 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 18:00:02 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 18:00:02 2025 [INFO] Device supports all required extensions
+Sun Jul  6 18:00:02 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 18:00:02 2025 [INFO] Available formats: 5
+Sun Jul  6 18:00:02 2025 [INFO] Available present modes: 5
+Sun Jul  6 18:00:02 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 18:00:02 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 18:00:02 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 18:00:02 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 18:00:02 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 18:00:02 2025 [INFO] Enabled validation layers
+Sun Jul  6 18:00:02 2025 [INFO] Logical device created successfully
+Sun Jul  6 18:00:02 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 18:00:02 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 18:00:02 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 18:00:02 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 18:00:02 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 18:00:02 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 18:00:02 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 18:00:03 2025 [INFO] Swapchain created successfully
+Sun Jul  6 18:00:03 2025 [INFO] Render pass created successfully
+Sun Jul  6 18:00:03 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 18:00:14 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 18:00:14 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 18:00:14 2025 [INFO] GLFW window created successfully
+Sun Jul  6 18:00:14 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 18:00:14 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 18:00:14 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 18:00:14 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 18:00:14 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 18:00:14 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 18:00:14 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 18:00:14 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 18:00:14 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 18:00:15 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 18:00:15 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 18:00:15 2025 [INFO] Window surface created successfully
+Sun Jul  6 18:00:15 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 18:00:15 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 18:00:15 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 18:00:15 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 18:00:15 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 18:00:15 2025 [INFO] Device supports all required extensions
+Sun Jul  6 18:00:15 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 18:00:15 2025 [INFO] Available formats: 5
+Sun Jul  6 18:00:15 2025 [INFO] Available present modes: 5
+Sun Jul  6 18:00:15 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 18:00:15 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 18:00:15 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 18:00:15 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 18:00:15 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 18:00:15 2025 [INFO] Enabled validation layers
+Sun Jul  6 18:00:15 2025 [INFO] Logical device created successfully
+Sun Jul  6 18:00:15 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 18:00:15 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 18:00:15 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 18:00:15 2025 [INFO] Chosen swap chain format: 50
+Sun Jul  6 18:00:15 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 18:00:15 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 18:00:15 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 18:00:15 2025 [INFO] Swapchain created successfully
+Sun Jul  6 18:00:15 2025 [INFO] Render pass created successfully
+Sun Jul  6 18:00:15 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 18:18:45 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 18:18:45 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 18:18:45 2025 [INFO] GLFW window created successfully
+Sun Jul  6 18:18:45 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 18:18:45 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 18:18:45 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 18:18:45 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 18:18:45 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 18:18:45 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 18:18:45 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 18:18:45 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 18:18:45 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 18:18:46 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 18:18:46 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 18:18:46 2025 [INFO] Window surface created successfully
+Sun Jul  6 18:18:46 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 18:18:46 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 18:18:46 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 18:18:46 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 18:18:46 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 18:18:46 2025 [INFO] Device supports all required extensions
+Sun Jul  6 18:18:46 2025 [INFO] Found 5 surface formats
+Sun Jul  6 18:18:46 2025 [INFO] Found 5 present modes
+Sun Jul  6 18:18:46 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 18:18:46 2025 [INFO] Available formats: 5
+Sun Jul  6 18:18:46 2025 [INFO] Available present modes: 5
+Sun Jul  6 18:18:46 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 18:18:46 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 18:18:46 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 18:18:46 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 18:18:46 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 18:18:46 2025 [INFO] Enabled validation layers
+Sun Jul  6 18:18:46 2025 [INFO] Logical device created successfully
+Sun Jul  6 18:18:46 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 18:18:46 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 18:18:46 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 18:18:46 2025 [INFO] Found 5 surface formats
+Sun Jul  6 18:18:46 2025 [INFO] Found 5 present modes
+Sun Jul  6 18:18:46 2025 [INFO] Selected swap chain format: VK_FORMAT_B8G8R8A8_UNORM
+Sun Jul  6 18:18:46 2025 [INFO] Chosen swap chain format: 44
+Sun Jul  6 18:18:46 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 18:18:46 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 18:18:46 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 18:18:46 2025 [INFO] Swapchain created successfully
+Sun Jul  6 18:18:46 2025 [INFO] Render pass created successfully
+Sun Jul  6 18:18:46 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 18:18:46 2025 [INFO] Created 3 swap chain image views
+Sun Jul  6 18:18:46 2025 [INFO] Created 3 framebuffers
+Sun Jul  6 18:18:46 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 18:18:46 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:01:35 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 19:01:35 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 19:01:35 2025 [INFO] GLFW window created successfully
+Sun Jul  6 19:01:35 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 19:01:35 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 19:01:35 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 19:01:35 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 19:01:35 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 19:01:35 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 19:01:35 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 19:01:35 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 19:01:35 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:01:36 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 19:01:36 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 19:01:36 2025 [INFO] Window surface created successfully with handle: 1924013534264
+Sun Jul  6 19:01:36 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 19:01:36 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:01:36 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:01:36 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:01:36 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:01:36 2025 [INFO] Device supports all required extensions
+Sun Jul  6 19:01:36 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:01:36 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:01:36 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 19:01:36 2025 [INFO] Available formats: 5
+Sun Jul  6 19:01:36 2025 [INFO] Available present modes: 5
+Sun Jul  6 19:01:36 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:01:36 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:01:36 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:01:36 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:01:36 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 19:01:36 2025 [INFO] Enabled validation layers
+Sun Jul  6 19:01:36 2025 [INFO] Logical device created successfully
+Sun Jul  6 19:01:36 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 19:01:36 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 19:01:36 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 19:01:36 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:01:36 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:01:36 2025 [INFO] Selected swap chain format: VK_FORMAT_B8G8R8A8_UNORM
+Sun Jul  6 19:01:36 2025 [INFO] Chosen swap chain format: 44
+Sun Jul  6 19:01:36 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 19:01:36 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 19:01:36 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 19:01:36 2025 [INFO] Swapchain created successfully
+Sun Jul  6 19:01:36 2025 [INFO] Render pass created successfully
+Sun Jul  6 19:01:36 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 19:01:36 2025 [INFO] Created 3 swap chain image views
+Sun Jul  6 19:01:36 2025 [INFO] Created 3 framebuffers
+Sun Jul  6 19:01:36 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:01:36 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:01:36 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:01:36 2025 [INFO] Command pool created successfully
+Sun Jul  6 19:01:36 2025 [INFO] Command buffer allocated successfully
+Sun Jul  6 19:01:36 2025 [INFO] Synchronization objects created successfully
+Sun Jul  6 19:01:36 2025 [INFO] Entering main loop
+Sun Jul  6 19:01:44 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 19:01:44 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 19:01:44 2025 [INFO] GLFW window created successfully
+Sun Jul  6 19:01:44 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 19:01:44 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 19:01:44 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 19:01:44 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 19:01:44 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 19:01:44 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 19:01:44 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 19:01:44 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:01:44 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 19:01:44 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 19:01:44 2025 [INFO] Window surface created successfully with handle: 2769947570312
+Sun Jul  6 19:01:44 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 19:01:44 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:01:44 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:01:44 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:01:44 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:01:44 2025 [INFO] Device supports all required extensions
+Sun Jul  6 19:01:44 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:01:44 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:01:44 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 19:01:44 2025 [INFO] Available formats: 5
+Sun Jul  6 19:01:44 2025 [INFO] Available present modes: 5
+Sun Jul  6 19:01:44 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:01:44 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:01:44 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:01:44 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:01:44 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 19:01:44 2025 [INFO] Enabled validation layers
+Sun Jul  6 19:01:45 2025 [INFO] Logical device created successfully
+Sun Jul  6 19:01:45 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 19:01:45 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 19:01:45 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 19:01:45 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:01:45 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:01:45 2025 [INFO] Selected swap chain format: VK_FORMAT_B8G8R8A8_UNORM
+Sun Jul  6 19:01:45 2025 [INFO] Chosen swap chain format: 44
+Sun Jul  6 19:01:45 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 19:01:45 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 19:01:45 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 19:01:45 2025 [INFO] Swapchain created successfully
+Sun Jul  6 19:01:45 2025 [INFO] Render pass created successfully
+Sun Jul  6 19:01:45 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 19:01:45 2025 [INFO] Created 3 swap chain image views
+Sun Jul  6 19:01:45 2025 [INFO] Created 3 framebuffers
+Sun Jul  6 19:01:45 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:01:45 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:01:45 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:01:45 2025 [INFO] Command pool created successfully
+Sun Jul  6 19:01:45 2025 [INFO] Command buffer allocated successfully
+Sun Jul  6 19:01:45 2025 [INFO] Synchronization objects created successfully
+Sun Jul  6 19:01:45 2025 [INFO] Entering main loop
+Sun Jul  6 19:25:16 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 19:25:16 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 19:25:16 2025 [INFO] GLFW window created successfully
+Sun Jul  6 19:25:16 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 19:25:16 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 19:25:16 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 19:25:16 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 19:25:16 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 19:25:16 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 19:25:16 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 19:25:16 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 19:25:16 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:25:17 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 19:25:17 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 19:25:17 2025 [INFO] Window surface created successfully with handle: 1917689957256
+Sun Jul  6 19:25:17 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 19:25:17 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:25:17 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:25:17 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:25:17 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:25:17 2025 [INFO] Device supports all required extensions
+Sun Jul  6 19:25:17 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:25:17 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:25:17 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 19:25:17 2025 [INFO] Available formats: 5
+Sun Jul  6 19:25:17 2025 [INFO] Available present modes: 5
+Sun Jul  6 19:25:17 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:25:17 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:25:17 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:25:17 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:25:17 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 19:25:17 2025 [INFO] Enabled validation layers
+Sun Jul  6 19:25:17 2025 [INFO] Logical device created successfully
+Sun Jul  6 19:25:17 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 19:25:17 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 19:25:17 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 19:25:17 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:25:17 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:25:17 2025 [INFO] Selected swap chain format: VK_FORMAT_B8G8R8A8_UNORM
+Sun Jul  6 19:25:17 2025 [INFO] Chosen swap chain format: 44
+Sun Jul  6 19:25:17 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 19:25:17 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 19:25:17 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 19:25:17 2025 [INFO] Swapchain created successfully
+Sun Jul  6 19:25:17 2025 [INFO] Render pass created successfully
+Sun Jul  6 19:25:17 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 19:25:17 2025 [INFO] Created 3 swap chain image views
+Sun Jul  6 19:25:17 2025 [INFO] Created 3 framebuffers
+Sun Jul  6 19:25:17 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:25:17 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:25:17 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:25:17 2025 [INFO] Command pool created successfully
+Sun Jul  6 19:25:17 2025 [INFO] Command buffer allocated successfully
+Sun Jul  6 19:25:17 2025 [INFO] Synchronization objects created successfully
+Sun Jul  6 19:25:17 2025 [INFO] Entering main loop
+Sun Jul  6 19:32:35 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 19:32:35 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 19:32:35 2025 [INFO] GLFW window created successfully
+Sun Jul  6 19:32:35 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 19:32:35 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 19:32:35 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 19:32:35 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 19:32:35 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 19:32:35 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 19:32:35 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 19:32:35 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:32:35 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 19:32:35 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 19:32:35 2025 [INFO] Window surface created successfully with handle: 1586749487320
+Sun Jul  6 19:32:35 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 19:32:35 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:32:35 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:32:35 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:32:35 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:32:35 2025 [INFO] Device supports all required extensions
+Sun Jul  6 19:32:35 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:32:35 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:32:35 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 19:32:35 2025 [INFO] Available formats: 5
+Sun Jul  6 19:32:35 2025 [INFO] Available present modes: 5
+Sun Jul  6 19:32:35 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:32:35 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:32:35 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:32:35 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:32:35 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 19:32:35 2025 [INFO] Enabled validation layers
+Sun Jul  6 19:32:35 2025 [INFO] Logical device created successfully
+Sun Jul  6 19:32:35 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 19:32:35 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 19:32:35 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 19:32:35 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:32:35 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:32:35 2025 [INFO] Selected swap chain format: VK_FORMAT_B8G8R8A8_UNORM
+Sun Jul  6 19:32:35 2025 [INFO] Chosen swap chain format: 44
+Sun Jul  6 19:32:35 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 19:32:35 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 19:32:35 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 19:32:36 2025 [INFO] Swapchain created successfully
+Sun Jul  6 19:32:36 2025 [INFO] Render pass created successfully
+Sun Jul  6 19:32:36 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 19:32:36 2025 [INFO] Created 3 swap chain image views
+Sun Jul  6 19:32:36 2025 [INFO] Created 3 framebuffers
+Sun Jul  6 19:32:36 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:32:36 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:32:36 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:32:36 2025 [INFO] Command pool created successfully
+Sun Jul  6 19:32:36 2025 [INFO] Command buffer allocated successfully
+Sun Jul  6 19:32:36 2025 [INFO] Synchronization objects created successfully
+Sun Jul  6 19:32:36 2025 [INFO] Entering main loop
+Sun Jul  6 19:32:37 2025 [INFO] Starting Vulkan Viewport application
+Sun Jul  6 19:32:37 2025 [INFO] GLFW initialized successfully
+Sun Jul  6 19:32:37 2025 [INFO] GLFW window created successfully
+Sun Jul  6 19:32:37 2025 [INFO] Loading model from: SimpleCube.obj
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: 1.000000, -1.000000, -1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: 1.000000, 1.000000, 1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: 1.000000, -1.000000, 1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: -1.000000, 1.000000, -1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: -1.000000, -1.000000, -1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: -1.000000, 1.000000, 1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added vertex position: -1.000000, -1.000000, 1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Added face with indices: 0, 1, 2
+Sun Jul  6 19:32:37 2025 [INFO] Added face with indices: 3, 4, 5
+Sun Jul  6 19:32:37 2025 [INFO] Added face with indices: 6, 7, 8
+Sun Jul  6 19:32:37 2025 [INFO] Added face with indices: 9, 10, 11
+Sun Jul  6 19:32:37 2025 [INFO] Added face with indices: 12, 13, 14
+Sun Jul  6 19:32:37 2025 [INFO] Added face with indices: 15, 16, 17
+Sun Jul  6 19:32:37 2025 [INFO] Loaded model with 18 vertices and 18 indices
+Sun Jul  6 19:32:37 2025 [INFO] First vertex position: 1.000000, 1.000000, -1.000000
+Sun Jul  6 19:32:37 2025 [INFO] Creating Vulkan instance with 3 extensions
+Sun Jul  6 19:32:38 2025 [INFO] Vulkan instance created successfully
+Sun Jul  6 19:32:38 2025 [INFO] Window surface created successfully with handle: 2797083200536
+Sun Jul  6 19:32:38 2025 [INFO] Found 1 Vulkan-capable device(s)
+Sun Jul  6 19:32:38 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:32:38 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:32:38 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:32:38 2025 [INFO] Checking device: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:32:38 2025 [INFO] Device supports all required extensions
+Sun Jul  6 19:32:38 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:32:38 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:32:38 2025 [INFO] Device has adequate swap chain support
+Sun Jul  6 19:32:38 2025 [INFO] Available formats: 5
+Sun Jul  6 19:32:38 2025 [INFO] Available present modes: 5
+Sun Jul  6 19:32:38 2025 [INFO] Selected GPU: NVIDIA GeForce RTX 4090
+Sun Jul  6 19:32:38 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:32:38 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:32:38 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:32:38 2025 [INFO] Enabling device extensions: VK_KHR_swapchain
+Sun Jul  6 19:32:38 2025 [INFO] Enabled validation layers
+Sun Jul  6 19:32:38 2025 [INFO] Logical device created successfully
+Sun Jul  6 19:32:38 2025 [INFO] Device queues retrieved successfully
+Sun Jul  6 19:32:38 2025 [INFO] Created vertex buffer of size: 576 bytes
+Sun Jul  6 19:32:38 2025 [INFO] Created index buffer of size: 72 bytes
+Sun Jul  6 19:32:38 2025 [INFO] Found 5 surface formats
+Sun Jul  6 19:32:38 2025 [INFO] Found 5 present modes
+Sun Jul  6 19:32:38 2025 [INFO] Selected swap chain format: VK_FORMAT_B8G8R8A8_UNORM
+Sun Jul  6 19:32:38 2025 [INFO] Chosen swap chain format: 44
+Sun Jul  6 19:32:38 2025 [INFO] Chosen present mode: 1
+Sun Jul  6 19:32:38 2025 [INFO] Chosen extent: 800x600
+Sun Jul  6 19:32:38 2025 [INFO] Using 3 images in swap chain
+Sun Jul  6 19:32:38 2025 [INFO] Swapchain created successfully
+Sun Jul  6 19:32:38 2025 [INFO] Render pass created successfully
+Sun Jul  6 19:32:38 2025 [INFO] Graphics pipeline created successfully
+Sun Jul  6 19:32:38 2025 [INFO] Created 3 swap chain image views
+Sun Jul  6 19:32:38 2025 [INFO] Created 3 framebuffers
+Sun Jul  6 19:32:38 2025 [INFO] Searching through 6 queue families
+Sun Jul  6 19:32:38 2025 [INFO] Found graphics queue family at index 0
+Sun Jul  6 19:32:38 2025 [INFO] Found present queue family at index 0
+Sun Jul  6 19:32:38 2025 [INFO] Command pool created successfully
+Sun Jul  6 19:32:38 2025 [INFO] Command buffer allocated successfully
+Sun Jul  6 19:32:38 2025 [INFO] Synchronization objects created successfully
+Sun Jul  6 19:32:38 2025 [INFO] Entering main loop
